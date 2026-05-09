@@ -95,8 +95,6 @@ footer {
     padding-bottom: 4rem;
 }
 
-/* ---------- Hero ---------- */
-
 .hero {
     text-align: center;
     margin-bottom: 28px;
@@ -156,7 +154,6 @@ footer {
     backdrop-filter: blur(14px);
 }
 
-/* ---------- Chat Panel ---------- */
 
 .chat-panel {
     width: 100%;
@@ -280,8 +277,6 @@ footer {
     box-shadow: 0 18px 40px rgba(37, 99, 235, 0.25);
 }
 
-/* ---------- Quick Cards ---------- */
-
 .quick-area {
     margin-top: 26px;
 }
@@ -328,7 +323,6 @@ footer {
     line-height: 1.6;
 }
 
-/* ---------- Composer ---------- */
 
 .composer-label {
     margin: 26px 0 12px;
@@ -397,8 +391,6 @@ div[data-testid="stFormSubmitButton"] button:hover {
     text-align: center;
 }
 
-/* ---------- Streamlit Default Fixes ---------- */
-
 .stAlert {
     border-radius: 18px;
 }
@@ -406,8 +398,6 @@ div[data-testid="stFormSubmitButton"] button:hover {
 [data-testid="stSpinner"] {
     color: #C7D2FE;
 }
-
-/* ---------- Animations ---------- */
 
 @keyframes fadeInUp {
     from {
@@ -419,8 +409,6 @@ div[data-testid="stFormSubmitButton"] button:hover {
         transform: translateY(0);
     }
 }
-
-/* ---------- Mobile ---------- */
 
 @media (max-width: 760px) {
     .block-container {
